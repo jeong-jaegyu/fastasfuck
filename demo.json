@@ -1,0 +1,24 @@
+{
+    "formatVersion": 1,
+    "game": "minecraft",
+    "versionId": "4.9.0",
+    "name": "Fabulously Optimized",
+    "summary": "Improve your graphics and performance with this simple modpack.",
+    "files": [
+        {
+            "path": "mods/advancementinfo.jar",
+            "hashes": {
+                "sha1": "bbd9b0f2f2cc9913082b1476232ada6acb76bac1",
+                "sha512": "7a983166bd9a5ea81c8a4fbfe5261333eb7207cc5080ee0306b62f260113c2fdce68a4c1c7d5275d09b9155e245e59d41e33f50fbb8b498b1a422b9e80fda9d3"
+            },
+            "downloads": [
+                "http://localhost/advancementinfo.jar"
+            ],
+            "fileSize": 1041527
+        }
+    ],
+    "dependencies": {
+        "minecraft": "1.19.4",
+        "fabric-loader": "0.14.19"
+    }
+}
